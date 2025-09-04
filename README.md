@@ -51,6 +51,12 @@ This dashboard provides a **360° view of the ICC Champions Trophy**, highlighti
 It serves as a foundation for deeper sports analytics and can be extended to include:  
 - Predictive modeling for match outcomes  
 - Advanced player performance comparisons  
-- Integration with real-time match data  
+- Integration with real-time match data
+
+- ## 📷 Screenshots
+
+
+### 🔹 Power BI Desktop Page  
+![Power BI Desktop Screenshot](https://github.com/SanthoshPandiya/ICC-Champions-Trophy-Analysis/blob/main/ICC%20CT%20Dashboard.png)
 
  
